@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="machine">
+    <file>icons8-washing-machine-94.png</file>
+  </qresource>
+</RCC>
